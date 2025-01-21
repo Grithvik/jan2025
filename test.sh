@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/nash
 
-echo "this is new file in main branch"
+echo "this is new file in main branch rithvik varma"
